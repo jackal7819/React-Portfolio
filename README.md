@@ -1,8 +1,19 @@
-# React + Vite
+### React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project represents my frontend portfolio created using React. I am an aspiring and dedicated frontend developer striving to create innovative and engaging web applications.
 
-Currently, two official plugins are available:
+#### Link to the Finished Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The completed project is accessible via [https://react-portfolio-mdj6.onrender.com](https://react-portfolio-mdj6.onrender.com).
+
+#### Description
+
+My portfolio serves as a showcase of my skills and projects, where I demonstrate my web development capabilities. It showcases a collection of my works, including experiments with interfaces, use of modern technologies, and ongoing projects.
+
+#### Libraries and Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **JavaScript**: Primary programming language for web development.
+- **tailwindcss**: Tool for rapid user interface development, allowing for flexible and modern designs.
+- **nanoid**: Library for generating unique identifiers.
+- **react-icons**: Icon collection intended for usage in React applications.
