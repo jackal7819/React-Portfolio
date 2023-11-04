@@ -12,8 +12,9 @@ My portfolio serves as a showcase of my skills and projects, where I demonstrate
 
 ## Libraries and Technologies Used
 
-- **React**: JavaScript library for building user interfaces.
-- **JavaScript**: Primary programming language for web development.
-- **tailwindcss**: Tool for rapid user interface development, allowing for flexible and modern designs.
-- **nanoid**: Library for generating unique identifiers.
-- **react-icons**: Icon collection intended for usage in React applications.
+- **<u style="font-size: larger;">REACT</u>**: JavaScript library for building user interfaces. [React](https://fkhadra.github.io/react-toastify/introduction)
+- **<u style="font-size: larger;">JAVASCRIPT</u>**: Primary programming language for web development. [JavaScript](https://uk.javascript.info/)
+- **<u style="font-size: larger;">NANOID</u>**: Library for generating unique identifiers. [Nanoid](https://github.com/ai/nanoid#readme)
+- **<u style="font-size: larger;">REACT_ICONS</u>**: Icon collection intended for usage in React applications. [React Icons](https://react-icons.github.io/react-icons)
+- **<u style="font-size: larger;">TAILWINDCSS</u>**: Tool for rapid user interface development, allowing for flexible and modern designs. [Tailwindcss](https://tailwindcss.com/)
+
