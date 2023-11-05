@@ -6,5 +6,10 @@
 
 * {
     font-family: 'Fira Sans', sans-serif;
-    scroll-behavior: smooth;
+}
+
+@layer components {
+    .align-element {
+        @apply px-8 mx-auto max-w-7xl
+    }
 }

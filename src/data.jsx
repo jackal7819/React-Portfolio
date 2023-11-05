@@ -1,5 +1,7 @@
+import { FaHtml5, FaReact } from 'react-icons/fa';
+import { SiJavascript, SiNextdotjs, SiTailwindcss, SiTypescript } from 'react-icons/si';
+
 import { nanoid } from 'nanoid';
-import { FaHtml5, FaJs, FaReact } from 'react-icons/fa';
 
 export const links = [
 	{ id: nanoid(), href: '#home', text: 'home' },
@@ -12,20 +14,38 @@ export const skills = [
 	{
 		id: nanoid(),
 		title: 'HTML&CSS',
-		icon: <FaHtml5 className='w-16 h-16 text-emerald-500' />,
+		icon: <FaHtml5 className='w-16 h-16 text-sky-500' />,
 		text: 'Highly skilled in HTML & CSS, adeptly crafting visually appealing and responsive websites for optimal user experiences.',
 	},
 	{
 		id: nanoid(),
-		title: 'Javascript',
-		icon: <FaJs className='w-16 h-16 text-emerald-500' />,
+		title: 'JavaScript',
+		icon: <SiJavascript className='w-16 h-16 text-sky-500' />,
 		text: 'Expertise in JavaScript, building interactive and dynamic web applications with a focus on seamless user interactions and functionality',
+	},
+		{
+		id: nanoid(),
+		title: 'TypeScript',
+		icon: <SiTypescript className='w-16 h-16 text-sky-500' />,
+		text: 'Proficient in leveraging TypeScript to develop engaging and dynamic web applications, prioritizing fluid user experiences and enhanced functionality',
 	},
 	{
 		id: nanoid(),
 		title: 'React',
-		icon: <FaReact className='w-16 h-16 text-emerald-500' />,
+		icon: <FaReact className='w-16 h-16 text-sky-500' />,
 		text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+	},
+	{
+		id: nanoid(),
+		title: 'React',
+		icon: <SiTailwindcss className='w-16 h-16 text-sky-500' />,
+		text: 'Mastering the art of Tailwind CSS to sculpt dynamic, adaptable web interfaces, focusing on lightning-fast development and the graceful execution of design',
+	},
+	{
+		id: nanoid(),
+		title: 'Next',
+		icon: <SiNextdotjs className='w-16 h-16 text-sky-500' />,
+		text: 'Fluent in Next.js to architect performance, dynamic web applications, centered on efficient rendering, graceful transitions, and fluid user experiences',
 	},
 ];
 
