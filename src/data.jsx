@@ -6,8 +6,6 @@ import imgCossack from './assets/screen-cossack.webp';
 import imgGalaxy from './assets/screen-nintendo.webp';
 import { nanoid } from 'nanoid';
 
-imgCossack
-
 export const links = [
 	{ id: nanoid(), href: '#home', text: 'home' },
 	{ id: nanoid(), href: '#about', text: 'about' },
