@@ -18,7 +18,7 @@ export const skills = [
 		id: nanoid(),
 		title: 'HTML & CSS',
 		icon: <FaHtml5 className='w-16 h-16 text-sky-500' />,
-		text: 'Highly skilled in HTML & CSS, adeptly crafting visually appealing and responsive websites for optimal user experiences.',
+		text: 'Highly skilled in HTML & CSS, adeptly crafting visually appealing and responsive websites for optimal user experiences',
 	},
 	{
 		id: nanoid(),
@@ -36,7 +36,7 @@ export const skills = [
 		id: nanoid(),
 		title: 'React',
 		icon: <FaReact className='w-16 h-16 text-sky-500' />,
-		text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+		text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture',
 	},
 	{
 		id: nanoid(),
